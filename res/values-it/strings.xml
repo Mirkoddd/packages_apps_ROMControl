@@ -170,7 +170,7 @@
     <string name="arrow_down">.</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#FF000000</string>
-    <string name="set">Set</string>
+    <string name="set">Imposta</string>
     <string name="ics_color">Holo</string>
 
     <!-- Navigation Bar -->
